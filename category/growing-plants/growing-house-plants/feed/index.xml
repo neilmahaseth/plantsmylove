@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Growing House Plants &#8211; Plants My Love</title>
-	<atom:link href="https://www.plantsmylove.com/category/growing-plants/growing-house-plants/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.plantsmylove.com/</link>
+	<atom:link href="https://plantsmylove.com/category/growing-plants/growing-house-plants/feed/" rel="self" type="application/rss+xml" />
+	<link>https://plantsmylove.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 Oct 2021 12:49:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://www.plantsmylove.com/wp-content/uploads/2021/09/cropped-Logo-Fav-32x32.png</url>
+	<url>https://plantsmylove.com/wp-content/uploads/2021/09/cropped-Logo-Fav-32x32.png</url>
 	<title>Growing House Plants &#8211; Plants My Love</title>
-	<link>https://www.plantsmylove.com/</link>
+	<link>https://plantsmylove.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
