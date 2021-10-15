@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="October 15, 2021 5:55 am" -->
+<!-- generated-on="October 15, 2021 7:19 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://plantsmylove.com/sample-page/</loc>
 		<lastmod>2021-09-29T08:09:55+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 405df50d096c737e589733b81a70ee77; Queries for sitemap: 4; Total queries: 30; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: f39d17ca3d71c5cf075046a08421b3a3; Queries for sitemap: 4; Total queries: 30; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
