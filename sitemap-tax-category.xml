@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="October 15, 2021 8:00 am" -->
+<!-- generated-on="October 15, 2021 11:57 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://plantsmylove.com/category/diy-projects/</loc>
 		<lastmod>2021-10-06T08:19:58+00:00</lastmod>
@@ -18,4 +18,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
-</urlset><!-- Request ID: 22eb129918e2a3ae7b02a5808701bbcc; Queries for sitemap: 6; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: dccb1d5d81e1015f5b40a44f44c04b86; Queries for sitemap: 6; Total queries: 31; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
