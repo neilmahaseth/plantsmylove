@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="October 16, 2021 8:29 am" -->
+<!-- generated-on="October 16, 2021 12:24 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://plantsmylove.com/category/diy-projects/</loc>
 		<lastmod>2019-09-13T08:00:00+00:00</lastmod>
@@ -14,26 +14,32 @@
 	</url>
 	<url>
 		<loc>https://plantsmylove.com/category/growing-plants/growing-flowering-plants/</loc>
-		<lastmod>2020-04-25T08:16:00+00:00</lastmod>
+		<lastmod>2020-09-19T11:22:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://plantsmylove.com/category/plant-propagation/growing-from-cuttings/</loc>
-		<lastmod>2020-04-25T08:16:00+00:00</lastmod>
+		<lastmod>2020-09-26T11:24:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/plant-propagation/growing-from-seeds/</loc>
+		<lastmod>2020-09-19T11:22:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://plantsmylove.com/category/growing-plants/growing-your-own-food/growing-vegetables/</loc>
-		<lastmod>2019-11-03T08:11:00+00:00</lastmod>
+		<lastmod>2020-09-26T11:24:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://plantsmylove.com/category/growing-plants/growing-your-own-food/</loc>
-		<lastmod>2019-11-03T08:11:00+00:00</lastmod>
+		<lastmod>2020-09-12T11:18:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
-</urlset><!-- Request ID: d625c5e09be9dec424eb9b7379c6feb9; Queries for sitemap: 7; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 8bf93f933a11fe434fdc82af45cc1e84; Queries for sitemap: 7; Total queries: 32; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
