@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="March 15, 2022 5:35 am" -->
+<!-- generated-on="March 15, 2022 5:50 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://plantsmylove.com/how-to-grow-hot-chili-pepper-from-seeds/</loc>
 		<lastmod>2022-03-14T07:08:40+00:00</lastmod>
@@ -12,4 +12,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 868328769ea2640ee8e14d11cc1c3f6c; Queries for sitemap: 4; Total queries: 30; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 4e3720cff607750017dfc0c66a83d5a3; Queries for sitemap: 4; Total queries: 30; Seconds: 0.02; Memory for sitemap: 0MB; Total memory: 2MB -->
