@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="March 15, 2022 5:17 am" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="March 15, 2022 5:35 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>http://plantsmylove.com/how-to-grow-marigold-from-seeds-with-updates/</loc>
+		<loc>https://plantsmylove.com/how-to-grow-marigold-from-seeds-with-updates/</loc>
 		<lastmod>2022-03-14T08:14:30+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>http://plantsmylove.com/grow-butterfly-pea-flower-blue-ternate-from-seed-with-updates/</loc>
+		<loc>https://plantsmylove.com/grow-butterfly-pea-flower-blue-ternate-from-seed-with-updates/</loc>
 		<lastmod>2022-03-14T08:16:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: ffd9ef3e75e48e3881bae58980db6c44; Queries for sitemap: 4; Total queries: 30; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 83318f7f8a0a3911aeae4923fe6a1619; Queries for sitemap: 4; Total queries: 30; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->

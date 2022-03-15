@@ -1,83 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="March 15, 2022 5:16 am" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="March 15, 2022 5:34 am" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-misc.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-misc.xml</loc>
 		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-tax-category.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-tax-category.xml</loc>
 		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2021-09.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2021-09.xml</loc>
 		<lastmod>2022-03-14T15:47:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2021-03.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2021-03.xml</loc>
 		<lastmod>2022-03-14T07:16:18+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2021-02.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2021-02.xml</loc>
 		<lastmod>2022-03-14T07:28:19+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2021-01.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2021-01.xml</loc>
 		<lastmod>2022-03-14T07:31:51+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2020-12.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2020-12.xml</loc>
 		<lastmod>2022-03-14T15:53:33+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2020-10.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2020-10.xml</loc>
 		<lastmod>2022-03-14T07:45:51+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2020-09.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2020-09.xml</loc>
 		<lastmod>2022-03-14T16:20:14+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2020-07.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2020-07.xml</loc>
 		<lastmod>2022-03-14T08:08:43+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2020-06.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2020-06.xml</loc>
 		<lastmod>2022-03-14T16:20:56+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2020-05.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2020-05.xml</loc>
 		<lastmod>2022-03-14T08:16:56+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2020-04.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2020-04.xml</loc>
 		<lastmod>2022-03-14T08:19:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2019-11.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2019-11.xml</loc>
 		<lastmod>2022-03-14T08:21:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2019-10.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2019-10.xml</loc>
 		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2019-09.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2019-09.xml</loc>
 		<lastmod>2022-03-14T08:27:12+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-post-2019-07.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2019-07.xml</loc>
 		<lastmod>2022-03-14T16:21:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-pt-page-2022-03.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-pt-page-2022-03.xml</loc>
 		<lastmod>2022-03-14T05:23:51+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-authors.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-authors.xml</loc>
 		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://plantsmylove.com/sitemap-archives.xml</loc>
+		<loc>https://plantsmylove.com/sitemap-archives.xml</loc>
 		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 996556d22e1c29207b0a348420242309; Queries for sitemap: 7; Total queries: 33; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: 2cff9a58832fcca40590513ea15b3dce; Queries for sitemap: 7; Total queries: 33; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
