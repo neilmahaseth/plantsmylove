@@ -4908,7 +4908,7 @@ html {
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/css/owl.video.play.png") no-repeat;
+  background: url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/css/owl.video.play.png") no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
@@ -4948,8 +4948,8 @@ html {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.eot?v=4.7.0");
-  src: url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.eot#iefix&v=4.7.0") format("embedded-opentype"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.woff?v=4.7.0") format("woff"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.ttf?v=4.7.0") format("truetype"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg");
+  src: url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.eot?v=4.7.0");
+  src: url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.eot#iefix&v=4.7.0") format("embedded-opentype"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.woff?v=4.7.0") format("woff"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.ttf?v=4.7.0") format("truetype"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 .fa {
@@ -7268,8 +7268,8 @@ html {
 
 @font-face {
   font-family: "Ionicons";
-  src: url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.eot?v=4.4.7");
-  src: url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.eot?v=4.4.7#iefix") format("embedded-opentype"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.woff2?v=4.4.7") format("woff2"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.woff?v=4.4.7") format("woff"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.ttf?v=4.4.7") format("truetype"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.svg?v=4.4.7#Ionicons") format("svg");
+  src: url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.eot?v=4.4.7");
+  src: url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.eot?v=4.4.7#iefix") format("embedded-opentype"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.woff2?v=4.4.7") format("woff2"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.woff?v=4.4.7") format("woff"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.ttf?v=4.4.7") format("truetype"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/ionicons/ionicons.svg?v=4.4.7#Ionicons") format("svg");
   font-weight: normal;
   font-style: normal; }
 .ion,
@@ -10072,8 +10072,8 @@ html {
 
 @font-face {
   font-family: 'themify';
-  src: url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.eot");
-  src: url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.eot#iefix") format("embedded-opentype"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.woff") format("woff"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.ttf") format("truetype"), url("https://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.svg") format("svg");
+  src: url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.eot");
+  src: url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.eot#iefix") format("embedded-opentype"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.woff") format("woff"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.ttf") format("truetype"), url("http://plantsmylove.com/wp-content/themes/fascinate/assets/dist/fonts/themify/themify.svg") format("svg");
   font-weight: normal;
   font-style: normal; }
 [class^="ti-"],
