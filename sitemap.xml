@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="March 15, 2022 5:49 am" -->
+<!-- generated-on="March 16, 2022 6:28 pm" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-misc.xml</loc>
-		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
+		<lastmod>2022-03-16T18:18:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-tax-category.xml</loc>
-		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
+		<lastmod>2022-03-16T18:18:30+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2022-03.xml</loc>
+		<lastmod>2022-03-16T18:11:39+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2022-02.xml</loc>
+		<lastmod>2022-03-16T18:18:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-pt-post-2021-09.xml</loc>
@@ -74,10 +82,10 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-authors.xml</loc>
-		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
+		<lastmod>2022-03-16T18:18:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-archives.xml</loc>
-		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
+		<lastmod>2022-03-16T18:18:30+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: c03ba21fcb8e51b23a1b772105473350; Queries for sitemap: 7; Total queries: 33; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: 2d155945a6c1a7f0554194c96a89b873; Queries for sitemap: 7; Total queries: 33; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
