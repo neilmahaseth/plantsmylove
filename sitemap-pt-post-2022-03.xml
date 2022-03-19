@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="March 16, 2022 6:31 pm" -->
+<!-- generated-on="March 19, 2022 3:59 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://plantsmylove.com/propagate-zz-plant/</loc>
+		<lastmod>2022-03-19T03:54:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://plantsmylove.com/make-cement-planter/</loc>
 		<lastmod>2022-03-16T18:11:39+00:00</lastmod>
 		<changefreq>monthly</changefreq>
@@ -12,4 +18,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 25825f92dfdd05bb979fd1f3b4202bdd; Queries for sitemap: 4; Total queries: 30; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 5f17f7607a4807cb1869388b5f01b222; Queries for sitemap: 4; Total queries: 30; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
