@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="April 23, 2022 6:06 am" -->
+<!-- generated-on="May 5, 2022 12:00 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://plantsmylove.com/diy-sprayer/</loc>
+		<lastmod>2022-05-05T11:59:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://plantsmylove.com/jasmine-cutting/</loc>
 		<lastmod>2022-04-23T05:28:20+00:00</lastmod>
 		<changefreq>monthly</changefreq>
@@ -24,4 +30,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 6bebf50f66a3017e48c9c1c17e399f06; Queries for sitemap: 4; Total queries: 30; Seconds: 0; Memory for sitemap: 0MB; Total memory: 6MB -->
+</urlset><!-- Request ID: 1a48ac8ab132ac6222145a4dd54cf0f8; Queries for sitemap: 4; Total queries: 30; Seconds: 0; Memory for sitemap: 0MB; Total memory: 6MB -->
