@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="May 5, 2022 11:59 am" -->
+<!-- generated-on="May 18, 2022 6:21 am" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-misc.xml</loc>
-		<lastmod>2022-05-05T11:59:11+00:00</lastmod>
+		<lastmod>2022-05-18T06:20:52+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-tax-category.xml</loc>
-		<lastmod>2022-05-05T11:59:11+00:00</lastmod>
+		<lastmod>2022-05-18T06:20:52+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://plantsmylove.com/sitemap-pt-post-2022-05.xml</loc>
+		<lastmod>2022-05-18T06:20:52+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-pt-post-2022-04.xml</loc>
@@ -86,10 +90,10 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-authors.xml</loc>
-		<lastmod>2022-05-05T11:59:11+00:00</lastmod>
+		<lastmod>2022-05-18T06:20:52+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://plantsmylove.com/sitemap-archives.xml</loc>
-		<lastmod>2022-05-05T11:59:11+00:00</lastmod>
+		<lastmod>2022-05-18T06:20:52+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: dcbf9436b100ee9b5adddf03a9cee1bc; Queries for sitemap: 7; Total queries: 33; Seconds: 0; Memory for sitemap: 0MB; Total memory: 6MB -->
+</sitemapindex><!-- Request ID: 58c1f4b7c015354747f7f48eade7980f; Queries for sitemap: 7; Total queries: 33; Seconds: 0; Memory for sitemap: 0MB; Total memory: 8MB -->
