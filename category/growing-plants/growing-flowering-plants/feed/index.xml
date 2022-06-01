@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>https://plantsmylove.com/wp-content/uploads/2021/09/cropped-Logo-Fav-1-32x32.webp</url>
@@ -77,7 +77,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img width="1365" height="768" data-id="542"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Reasons-for-Propagating.webp" alt="Reasons for Propagating" class="wp-image-542"/><figcaption>Reasons for Propagating</figcaption></figure>
 </figure>
 
@@ -95,7 +95,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="531"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Select-Jasmine-Stem-for-Cutting.webp" alt="Select Jasmine Stem for Cutting" class="wp-image-531"/><figcaption>Select Jasmine Stem for Cutting</figcaption></figure>
 </figure>
 
@@ -113,7 +113,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="532"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Prepare-Jasmine-Cuttings.webp" alt="Prepare Jasmine Cuttings" class="wp-image-532"/><figcaption>Prepare Jasmine Cuttings</figcaption></figure>
 </figure>
 
@@ -135,7 +135,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-8 wp-block-gallery-7 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="533"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Cutting-Growing-Conditions.webp" alt="Cutting Growing Conditions" class="wp-image-533"/><figcaption>Cutting Growing Conditions</figcaption></figure>
 </figure>
 
@@ -149,7 +149,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-10 wp-block-gallery-9 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="534"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Cutting-Growing-Medium.webp" alt="Cutting Growing Medium" class="wp-image-534"/><figcaption>Cutting Growing Medium</figcaption></figure>
 </figure>
 
@@ -163,7 +163,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-12 wp-block-gallery-11 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="535"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Create-Humidity-Dome-Supports.webp" alt="Create Humidity Dome Supports" class="wp-image-535"/><figcaption>Create Humidity Dome Supports</figcaption></figure>
 </figure>
 
@@ -177,7 +177,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-14 wp-block-gallery-13 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="536"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Hydrate-the-Rooting-Medium.webp" alt="Hydrate the Rooting Medium" class="wp-image-536"/><figcaption>Hydrate the Rooting Medium</figcaption></figure>
 </figure>
 
@@ -191,7 +191,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-16 wp-block-gallery-15 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="537"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Add-Cutting-in-Rooting-Medium.webp" alt="Add Cutting in Rooting Medium" class="wp-image-537"/><figcaption>Add Cutting in Rooting Medium</figcaption></figure>
 </figure>
 
@@ -205,7 +205,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-18 wp-block-gallery-17 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="538"  src="https://plantsmylove.com/wp-content/uploads/2022/04/Add-Plastic-Bag-Humidity-Dome.webp" alt="Add Plastic Bag Humidity Dome" class="wp-image-538"/><figcaption>Add Plastic Bag Humidity Dome</figcaption></figure>
 </figure>
 
@@ -271,7 +271,7 @@
 <p>The post <a rel="nofollow" href="https://plantsmylove.com/how-to-grow-portulaca-11-oclock-from-cuttings/">How to Grow Portulaca 11 o’clock from Cuttings</a> appeared first on <a rel="nofollow" href="https://plantsmylove.com/">Plants My Love</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p class="has-drop-cap">Hi, friends learn about portulaca and propagating it using cuttings. It’s one of the best plants for beginners to start experimenting with cutting plant propagation. Hope you will enjoy it <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p class="has-drop-cap">Hi, friends learn about portulaca and propagating it using cuttings. It’s one of the best plants for beginners to start experimenting with cutting plant propagation. Hope you will enjoy it <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube"><a href="https://plantsmylove.com/how-to-grow-portulaca-11-oclock-from-cuttings/"><img src="https://i.ytimg.com/vi/SGTDlEaWfec/maxresdefault.jpg" alt="YouTube Video"></a><br /><br /><figcaption></figcaption></figure>

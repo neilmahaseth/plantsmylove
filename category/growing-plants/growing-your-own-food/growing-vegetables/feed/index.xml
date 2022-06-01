@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>https://plantsmylove.com/wp-content/uploads/2021/09/cropped-Logo-Fav-1-32x32.webp</url>
@@ -64,7 +64,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img width="1365" height="768" data-id="567"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Water-the-Seedlings-Thoroughly.webp" alt="Water the Seedlings Thoroughly" class="wp-image-567"/><figcaption>Water the Seedlings Thoroughly</figcaption></figure>
 </figure>
 
@@ -78,7 +78,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="568"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Plan-the-Plant-Placement.webp" alt="Plan the Plant Placement" class="wp-image-568"/><figcaption>Plan the Plant Placement</figcaption></figure>
 </figure>
 
@@ -92,7 +92,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="569"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Use-a-Tool-to-Dig-Out-Seedlings.webp" alt="Use a Tool to Dig Out Seedlings" class="wp-image-569"/><figcaption>Use a Tool to Dig Out Seedlings</figcaption></figure>
 </figure>
 
@@ -106,7 +106,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-8 wp-block-gallery-7 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="570"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Remove-the-Seedlings-with-Root-Ball-Intact.webp" alt="Remove the Seedlings with Root Ball Intact" class="wp-image-570"/><figcaption>Remove the Seedlings with Root Ball Intact</figcaption></figure>
 </figure>
 
@@ -120,7 +120,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-10 wp-block-gallery-9 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="571"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Dig-a-Hole-and-Gently-Place-the-Seedling.webp" alt="Dig a Hole and Gently Place the Seedling" class="wp-image-571"/><figcaption>Dig a Hole and Gently Place the Seedling</figcaption></figure>
 </figure>
 
@@ -134,7 +134,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-12 wp-block-gallery-11 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="572"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Add-Mulch-to-Retain-Moisture.webp" alt="Add Mulch to Retain Moisture" class="wp-image-572"/><figcaption>Add Mulch to Retain Moisture</figcaption></figure>
 </figure>
 
@@ -148,7 +148,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-14 wp-block-gallery-13 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="573"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Water-the-Trasnplants-Thoroughly.webp" alt="Water the Trasnplants Thoroughly" class="wp-image-573"/><figcaption>Water the Transplants Thoroughly</figcaption></figure>
 </figure>
 
@@ -162,7 +162,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-16 wp-block-gallery-15 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="574"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Growth-Update-after-24-Hrs.webp" alt="Growth Update after 24 Hrs" class="wp-image-574"/><figcaption>Growth Update after 24 Hrs</figcaption></figure>
 </figure>
 
@@ -176,7 +176,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-18 wp-block-gallery-17 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1365" height="768" data-id="575"  src="https://plantsmylove.com/wp-content/uploads/2022/05/Replace-Failed-Transplants-with-Backup-Seedlings.webp" alt="Replace Failed Transplants with Backup Seedlings" class="wp-image-575"/><figcaption>Replace Failed Transplants with Backup Seedlings</figcaption></figure>
 </figure>
 

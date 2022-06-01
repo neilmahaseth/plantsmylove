@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>https://plantsmylove.com/wp-content/uploads/2021/09/cropped-Logo-Fav-1-32x32.webp</url>
@@ -59,7 +59,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img width="1024" height="576" data-id="188"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Eggplant-Grown-Indoors--1024x576.webp" alt="1 Year Old Egg Plant Grown Indoors with Insufficient Light" class="wp-image-188" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Eggplant-Grown-Indoors--1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Eggplant-Grown-Indoors--300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Eggplant-Grown-Indoors--768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Eggplant-Grown-Indoors--1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Eggplant-Grown-Indoors--800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Eggplant-Grown-Indoors-.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 <figcaption class="blocks-gallery-caption">1 Year Old Egg Plant Grown Indoors with Insufficient Light</figcaption></figure>
 
@@ -69,7 +69,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-2 is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="191"  src="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Solar-Dehydrator-1024x576.webp" alt="Solar Dehydrator Created from a Cardboard Laptop Box" class="wp-image-191" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Solar-Dehydrator-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Solar-Dehydrator-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Solar-Dehydrator-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Solar-Dehydrator-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Solar-Dehydrator-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Solar-Dehydrator.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -87,7 +87,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="192"  src="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Irrigation-Timer-1024x576.webp" alt="Irrigation Timmer Created Using Electric Valve and Electronic Timmer Switch" class="wp-image-192" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Irrigation-Timer-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Irrigation-Timer-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Irrigation-Timer-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Irrigation-Timer-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Irrigation-Timer-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Irrigation-Timer.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -101,7 +101,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-8 wp-block-gallery-7 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="195"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Paper-Towel-Germination-1024x576.webp" alt="Germinating Seeds Using the Paper Towel Method" class="wp-image-195" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Paper-Towel-Germination-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Paper-Towel-Germination-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Paper-Towel-Germination-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Paper-Towel-Germination-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Paper-Towel-Germination-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Paper-Towel-Germination.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -115,7 +115,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
+<figure class="wp-container-10 wp-block-gallery-9 wp-block-gallery has-nested-images columns-2 is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="198"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Monkey-Protection-Net-1024x576.webp" alt="Terrace Garden Monkey Protection Using Nylon Net" class="wp-image-198" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Monkey-Protection-Net-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Monkey-Protection-Net-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Monkey-Protection-Net-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Monkey-Protection-Net-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Monkey-Protection-Net-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Monkey-Protection-Net.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -133,7 +133,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-12 wp-block-gallery-11 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="199"  src="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Self-Watering-Pots-1024x576.webp" alt="Self Watering/Bottom Watering Pot Created by Covering the Pot Base by Plastic Bag  " class="wp-image-199" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Self-Watering-Pots-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Self-Watering-Pots-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Self-Watering-Pots-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Self-Watering-Pots-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Self-Watering-Pots-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Self-Watering-Pots.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -147,7 +147,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-14 wp-block-gallery-13 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="201"  src="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Wind-Chime-1024x576.webp" alt="Wind Chime Using a Glass Bottle and CD to Capture Wind" class="wp-image-201" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Wind-Chime-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Wind-Chime-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Wind-Chime-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Wind-Chime-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Wind-Chime-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Wind-Chime.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -161,7 +161,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
+<figure class="wp-container-16 wp-block-gallery-15 wp-block-gallery has-nested-images columns-2 is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="204"  src="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Organic-Hydroponics-System-1024x576.webp" alt="Hydroponic System Using Organic Liquid Nutrients WIthout Electricity and Pumps" class="wp-image-204" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Organic-Hydroponics-System-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Organic-Hydroponics-System-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Organic-Hydroponics-System-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Organic-Hydroponics-System-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Organic-Hydroponics-System-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Organic-Hydroponics-System.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -179,7 +179,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-18 wp-block-gallery-17 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="207"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Self-Seeded-Papaya-Trees-1024x576.webp" alt="Self Seeded Organic Papaya Tree Grown at Home" class="wp-image-207" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Self-Seeded-Papaya-Trees-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Self-Seeded-Papaya-Trees-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Self-Seeded-Papaya-Trees-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Self-Seeded-Papaya-Trees-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Self-Seeded-Papaya-Trees-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Self-Seeded-Papaya-Trees.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -201,7 +201,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-20 wp-block-gallery-19 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="210"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Dumb-Cane-Plant-1024x576.webp" alt="Dumb Cane Plant " class="wp-image-210" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Dumb-Cane-Plant-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Dumb-Cane-Plant-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Dumb-Cane-Plant-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Dumb-Cane-Plant-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Dumb-Cane-Plant-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Dumb-Cane-Plant.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 <figcaption class="blocks-gallery-caption">Dumb Cane Plant </figcaption></figure>
 
@@ -211,7 +211,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-22 wp-block-gallery-21 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="211"  src="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Compost-bins-1024x576.webp" alt="Our Backyard Compost Systems Using Plastic Chicken Mesh" class="wp-image-211" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Compost-bins-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Compost-bins-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Compost-bins-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Compost-bins-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Compost-bins-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/DIY-Compost-bins.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -225,7 +225,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-24 wp-block-gallery-23 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="215"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Plants-1024x576.webp" alt="Beautiful Petunia Plants Gifted to Us" class="wp-image-215" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Plants-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Plants-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Plants-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Plants-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Plants-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Plants.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -251,7 +251,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-26 wp-block-gallery-25 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="219"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Yellow-Trumpet-Bush-Plant-1024x576.webp" alt="Yellow Trumpet Plant Grown from Cutting" class="wp-image-219" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Yellow-Trumpet-Bush-Plant-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Yellow-Trumpet-Bush-Plant-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Yellow-Trumpet-Bush-Plant-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Yellow-Trumpet-Bush-Plant-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Yellow-Trumpet-Bush-Plant-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Yellow-Trumpet-Bush-Plant.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -265,7 +265,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-28 wp-block-gallery-27 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="220"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Chinese-Orange-Plant-1024x576.webp" alt="Chines Orange Plant Grown from Seeds" class="wp-image-220" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Chinese-Orange-Plant-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Chinese-Orange-Plant-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Chinese-Orange-Plant-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Chinese-Orange-Plant-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Chinese-Orange-Plant-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Chinese-Orange-Plant.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -279,7 +279,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-2 is-cropped">
+<figure class="wp-container-30 wp-block-gallery-29 wp-block-gallery has-nested-images columns-2 is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="222"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Turmeric-Antifungal-1024x576.webp" alt="Using Organic Products In Our Garden" class="wp-image-222" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Turmeric-Antifungal-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Turmeric-Antifungal-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Turmeric-Antifungal-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Turmeric-Antifungal-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Turmeric-Antifungal-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Turmeric-Antifungal.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -297,7 +297,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-32 wp-block-gallery-31 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" data-id="228"  src="https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Cuttings-Propagation-1024x576.webp" alt="Propagating Petunia from Cuttings" class="wp-image-228" srcset="https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Cuttings-Propagation-1024x576.webp 1024w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Cuttings-Propagation-300x169.webp 300w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Cuttings-Propagation-768x432.webp 768w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Cuttings-Propagation-1536x864.webp 1536w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Cuttings-Propagation-800x450.webp 800w, https://plantsmylove.com/wp-content/uploads/2022/03/Petunia-Cuttings-Propagation.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 

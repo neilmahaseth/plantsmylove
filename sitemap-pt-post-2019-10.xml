@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="May 21, 2022 4:09 am" -->
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>https://plantsmylove.com/my-small-terrace-garden-tour/</loc>
-		<lastmod>2022-03-14T16:48:25+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.2</priority>
-	</url>
-</urlset><!-- Request ID: bfa9e7ede9799d4c2d0cd276549038af; Queries for sitemap: 4; Total queries: 30; Seconds: 0; Memory for sitemap: 0MB; Total memory: 6MB -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.3' -->
+<!-- generated-on='June 1, 2022 8:49 am' -->
+<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>\t<url>\n\t\t<loc>https://plantsmylove.com/my-small-terrace-garden-tour/</loc>\n\t\t<lastmod>2022-03-14T16:48:25+00:00</lastmod>\n\t\t<changefreq>monthly</changefreq>\n\t\t<priority>0.2</priority>\n\t</url>\n</urlset><!-- Request ID: a604eb8b9f7e051fbe712f7cfdcf6ea0; Queries for sitemap: 4; Total queries: 40; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 6MB -->
