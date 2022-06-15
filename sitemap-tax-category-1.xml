@@ -1,3 +1,53 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.3' -->
-<!-- generated-on='June 1, 2022 8:49 am' -->
-<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>\t<url>\n\t\t<loc>https://plantsmylove.com/category/diy-projects/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/garden-updates/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/growing-plants/growing-flowering-plants/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/plant-propagation/growing-from-cuttings/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/plant-propagation/growing-from-division/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/plant-propagation/growing-from-layering/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/plant-propagation/growing-from-seeds/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/growing-plants/growing-your-own-food/growing-herbs/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/growing-plants/growing-house-plants/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n\t<url>\n\t\t<loc>https://plantsmylove.com/category/growing-plants/</loc>\n\t\t<changefreq>weekly</changefreq>\n\t\t<priority>0.3</priority>\n\t</url>\n</urlset><!-- Request ID: 253600ffe4c90ab0f4fdb0a5706afd05; Queries for sitemap: 6; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 6MB -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.4' -->
+<!-- generated-on='June 15, 2022 3:37 pm' -->
+<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://plantsmylove.com/category/diy-projects/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/garden-updates/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/growing-plants/growing-flowering-plants/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/plant-propagation/growing-from-cuttings/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/plant-propagation/growing-from-division/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/plant-propagation/growing-from-layering/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/plant-propagation/growing-from-seeds/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/growing-plants/growing-your-own-food/growing-herbs/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/growing-plants/growing-house-plants/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://plantsmylove.com/category/growing-plants/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+</urlset><!-- Request ID: f6da0009d8650d93614ed7976ce361e7; Queries for sitemap: 6; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 6MB -->

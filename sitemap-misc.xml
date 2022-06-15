@@ -1,3 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.3' -->
-<!-- generated-on='June 1, 2022 8:49 am' -->
-<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>\t<url>\n\t\t<loc>https://plantsmylove.com/</loc>\n\t\t<lastmod>2022-06-01T07:52:00+00:00</lastmod>\n\t\t<changefreq>daily</changefreq>\n\t\t<priority>1.0</priority>\n\t</url>\n</urlset><!-- Request ID: f26eb8110f374486c25e8d9e4ce9c511; Queries for sitemap: 3; Total queries: 39; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 6MB -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.4' -->
+<!-- generated-on='June 15, 2022 3:37 pm' -->
+<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://plantsmylove.com/</loc>
+		<lastmod>2022-06-15T15:37:04+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+</urlset><!-- Request ID: 13c4af60b718dd160412e1fc731ffd2c; Queries for sitemap: 3; Total queries: 39; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 6MB -->
