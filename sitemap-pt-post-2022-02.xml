@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.4' -->
-<!-- generated-on='June 15, 2022 3:37 pm' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='https://auctollo.com/' sitemap-generator-version='4.1.5' -->
+<!-- generated-on='July 2, 2022 7:06 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://plantsmylove.com/diy-seedling-starter/</loc>
 		<lastmod>2022-03-16T18:14:26+00:00</lastmod>
@@ -18,4 +18,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 8e9b3430a25f6b4e01e12b14b5089ef5; Queries for sitemap: 4; Total queries: 40; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 6MB -->
+</urlset><!-- Request ID: 92d1c2d1f740d9a00a6e308d86cc5e8c; Queries for sitemap: 4; Total queries: 40; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 8MB -->
