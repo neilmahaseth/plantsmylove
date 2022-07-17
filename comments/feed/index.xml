@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for Plants My Love	</title>
+	Comments for PlantsMyLove.com	</title>
 	<atom:link href="https://plantsmylove.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://plantsmylove.com/</link>
 	<description></description>
-	<lastBuildDate>Sat, 09 Jul 2022 15:01:19 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Jul 2022 07:14:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 </channel>
 </rss>
