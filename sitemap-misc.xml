@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://plantsmylove.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='https://auctollo.com/' sitemap-generator-version='4.1.5' -->
-<!-- generated-on='July 17, 2022 7:16 am' -->
+<!-- generated-on='September 16, 2022 11:07 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://plantsmylove.com/</loc>
-		<lastmod>2022-07-17T07:14:17+00:00</lastmod>
+		<lastmod>2022-09-16T11:07:06+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
-</urlset><!-- Request ID: 59427d2d338e46059cbdcfe559928e85; Queries for sitemap: 3; Total queries: 39; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 6MB -->
+</urlset><!-- Request ID: ba98a9baab7800bb97999757ea6dc677; Queries for sitemap: 3; Total queries: 40; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 8MB -->
